@@ -1,5 +1,5 @@
 # BioImageAnalysisWorkshop
-This is a 5 sessions workshop about bioimage analysis. 
+This is a 7 sessions workshop about bioimage analysis with Fiji/ImageJ.
 
 For each session, a pdf describes the background required to understand the session topic and methods to addess it. Links to video tutorials are also available to see how to use ImageJ/Fiji to process images with the presented methods. The images used in the tutorials are available in the ImageExamples folders. A doc file in the same folders gives their location in the Internet.
 
@@ -20,5 +20,8 @@ For each session, a pdf describes the background required to understand the sess
 [Quantification - Operations between ROIs - ROIs from segmentations](https://www.youtube.com/watch?v=_sCNuzsttLg) <br>
 [Quantification - Area](https://www.youtube.com/watch?v=RlLy0Uc1GYg) <br>
 [Quantification - Batch Processing](https://www.youtube.com/watch?v=1fsBSp12w58) <br>
+[Automatization 1: CLIJ assistant](https://www.youtube.com/watch?v=E0eWDJAIp6o) <br>
+[Automatization 2: Macro recorder - batch processing](https://youtu.be/NeUOZrWhw0w) <br>
 [Colocalization - Colocalization with Fiji](https://www.youtube.com/watch?v=ruF4qg5nTcY) <br>
 [Colocalization - Colocalization with Icy](https://www.youtube.com/watch?v=SE8BQwRLakc) 
+[Tracking with TrackMate](https://youtu.be/QBSRsv6gxi8)
