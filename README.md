@@ -1,7 +1,7 @@
 # BioImageAnalysisWorkshop
-This is a 7 sessions workshop about bioimage analysis with Fiji/ImageJ.
+This is a 7 sessions workshop about bioimage informatics with Fiji/ImageJ.
 
-For each session, a pdf describes the background required to understand the session topic and methods to addess it. Links to video tutorials are also available to see how to use Fiji/ImageJ to process images with the presented methods. The images used in the tutorials are available in the ImageExamples folders. A doc file in the same folders gives their location on the Internet.
+For each session, a pdf describes the background required to understand the session topic and methods to address it. Video tutorials are available to see how to use Fiji/ImageJ to process images with the presented methods. The images used in the tutorials are available in the ImageExamples folders. A doc file in the same folders gives their location on the Internet.
 
 # Video tutorials
 [Introduction to Fiji - Download](https://www.youtube.com/watch?v=wCi5mypkZko) <br>
