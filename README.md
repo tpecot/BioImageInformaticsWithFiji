@@ -23,5 +23,5 @@ For each session, a pdf describes the background required to understand the sess
 [Automatization 1: CLIJ assistant](https://www.youtube.com/watch?v=E0eWDJAIp6o) <br>
 [Automatization 2: Macro recorder - batch processing](https://youtu.be/NeUOZrWhw0w) <br>
 [Colocalization - Colocalization with Fiji](https://www.youtube.com/watch?v=ruF4qg5nTcY) <br>
-[Colocalization - Colocalization with Icy](https://www.youtube.com/watch?v=SE8BQwRLakc) 
+[Colocalization - Colocalization with Icy](https://www.youtube.com/watch?v=SE8BQwRLakc) <br>
 [Tracking with TrackMate](https://youtu.be/QBSRsv6gxi8)
